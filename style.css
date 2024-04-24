@@ -69,6 +69,8 @@ main{
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
+    gap: 120px;
 }
 
 .heading{
@@ -92,6 +94,17 @@ main{
     height: 300px;
     background-image: url(01e7842ff2289b01c69f3d248edb33e6.jpg);
     background-size: cover;   
+}
+
+.imagetext{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.imageimage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 
