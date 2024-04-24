@@ -69,7 +69,6 @@ main{
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
 }
 
 .heading{
@@ -77,6 +76,22 @@ main{
     font-weight: normal;
     font-size: 80px;
     color: beige;
+}
+
+.imagecont{
+    font-family: sans-serif;
+    color: beige;
+    display: flex;
+    gap: 250px;
+    align-items: center;
+    justify-content: center;
+}
+
+.image{
+    width: 300px;
+    height: 300px;
+    background-image: url(01e7842ff2289b01c69f3d248edb33e6.jpg);
+    background-size: cover;   
 }
 
 
