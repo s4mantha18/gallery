@@ -15,11 +15,21 @@ main{
 .header{
     height: 80px;
     background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .navbar{
     font-family: sans-serif;
     font-weight: bold;
+}
+
+.title{
+    font-size: xx-large;
+}
+
+.nav{
     display: flex;
-    justify-content: space-between;
+    gap: 60px;
 }
