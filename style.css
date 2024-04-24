@@ -23,6 +23,8 @@ main{
 .navbar{
     font-family: sans-serif;
     font-weight: bold;
+    display: flex;
+    justify-content: space-between;
 }
 
 .title{
@@ -31,5 +33,6 @@ main{
 
 .nav{
     display: flex;
+    align-items: center;
     gap: 60px;
 }
