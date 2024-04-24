@@ -30,11 +30,37 @@ main{
 
 .title{
     font-size: xx-large;
+    cursor: pointer;
 }
 
 .nav{
     display: flex;
     align-items: center;
     gap: 60px;
+    cursor: pointer;
+}
+
+.Artists:hover{
+    color: plum;
+}
+
+.Artists:hover{
+    color: plum;
+}
+
+.Artists:hover{
+    color: plum;
+}
+
+.Artists:hover{
+    color: plum;
+}
+
+.Artists:hover{
+    color: plum;
+}
+
+.Artists:hover{
+    color: plum;
 }
 
