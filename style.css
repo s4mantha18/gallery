@@ -17,3 +17,9 @@ main{
     background-color: beige;
 }
 
+.navbar{
+    font-family: sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
